@@ -65,10 +65,6 @@ The project uses PostgreSQL as the database. To change the database configuratio
    </dependency>
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Spring Boot
